@@ -128,8 +128,11 @@
    # dtd
    wget https://www.robots.ox.ac.uk/~vgg/data/dtd/download/dtd-r1.0.1.tar.gz
    
-   # iSUN
+   # iSUN (provided by prof)
    wget "https://dl.dropboxusercontent.com/scl/fi/wpkzixs1zbqomg5ufq0dd/iSUN.tar.gz?rlkey=46mty3ly8kk3vdxtlnmdjc6zu" -O iSUN.tar.gz
+   
+   # try another iSUN
+   
    
    
    ```
